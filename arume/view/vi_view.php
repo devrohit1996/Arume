@@ -43,8 +43,6 @@
       <!-- <div class="room">
         <div class="remote-streams" id='syoukyoyou'>
           <video id="js-local-stream" class="video-full"></video>
-        </div>
-        <div class="remote-streams" id="js-remote-streams">
           <video id="js-local-stream" class="video-full"></video>
         </div>
       </div> -->
@@ -54,15 +52,9 @@
       <div class="room">
         <div class="remote-streams-half" id='syoukyoyou'>
           <video id="js-local-stream" class="video-full"></video>
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
           <video id="js-local-stream" class="video-full"></video>
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
-          <video id="js-local-stream"></video>
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
-          <video id="js-local-stream"></video>
+          <video id="js-local-stream" class="video-full"></video>
+          <video id="js-local-stream" class="video-full"></video>
         </div>
       </div>
       <!-- For four people -->
