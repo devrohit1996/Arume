@@ -82,18 +82,9 @@ arume
       <div class="room">
         <div class="remote-streams-half" id='syoukyoyou'>
           <video id="js-local-stream" class="video-full"></video>
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
-        </div>
-        <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
+          <video id="js-local-stream" class="video-full"></video>
+          <video id="js-local-stream" class="video-full"></video>
+          <video id="js-local-stream" class="video-full"></video>
         </div>
       </div>
       <input type="hidden" id="js-room-id" value="<?php echo $roomid; ?>">
