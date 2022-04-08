@@ -45,7 +45,7 @@
           <video id="js-local-stream" class="video-full"></video>
         </div>
         <div class="remote-streams" id="js-remote-streams">
-          <img src="img/aru.png">
+          <video id="js-local-stream" class="video-full"></video>
         </div>
       </div> -->
       <!-- For two people up down -->
@@ -56,16 +56,13 @@
           <video id="js-local-stream" class="video-full"></video>
         </div>
         <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
+          <video id="js-local-stream" class="video-full"></video>
         </div>
         <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
+          <video id="js-local-stream"></video>
         </div>
         <div class="remote-streams-half" id="js-remote-streams">
-          <img src="img/aru.png">
-          <!-- <video id="js-local-stream"></video> -->
+          <video id="js-local-stream"></video>
         </div>
       </div>
       <!-- For four people -->
